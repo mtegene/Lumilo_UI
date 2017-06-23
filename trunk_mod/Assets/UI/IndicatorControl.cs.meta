@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e8b68bcac69d45f4a995efe148d3195c
+timeCreated: 1497563770
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - normalStudentIndicator: {fileID: 1813080425453602, guid: bccb74eeb29245d4e8567d139f4dc951,
+      type: 2}
+  - criticalStruggleIndicator: {instanceID: 0}
+  - idleIndicator: {instanceID: 0}
+  - systmeMisuseIndicator: {instanceID: 0}
+  - struggleIndicator: {instanceID: 0}
+  - studentDoingWellIndicator: {instanceID: 0}
+  - invisibleHandRaiseIndicator: {fileID: 1691988798365644, guid: 54aea8fe8e92e8b48ac42de454b41af6,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
